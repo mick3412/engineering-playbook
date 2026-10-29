@@ -1,0 +1,16 @@
+{
+  "name": "engineering-playbook-local",
+  "owner": {
+    "name": "Mick Lu"
+  },
+  "plugins": [
+    {
+      "name": "engineering-playbook",
+      "source": "./",
+      "description": "A step-by-step handbook for building software with AI agents."
+    }
+  ],
+  "metadata": {
+    "description": "Local marketplace for the Engineering Playbook plugin."
+  }
+}

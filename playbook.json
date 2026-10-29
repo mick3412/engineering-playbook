@@ -1,0 +1,10 @@
+{
+  "name": "engineering-playbook",
+  "title": "Engineering Playbook",
+  "home_env": "ENGINEERING_PLAYBOOK_HOME",
+  "state_dir": ".engineering",
+  "track_prefix": {
+    "協作": "CO",
+    "工具": "TL"
+  }
+}
