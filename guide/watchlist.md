@@ -17,3 +17,4 @@
 |---|---|---|---|---|
 | T-01 | Trail-code（原名 Graft） | 待試 | 用 tree-sitter 把程式畫成地圖（檔案、函式、誰呼叫誰），Claude Code 每次改檔前先查；另存「學到的事」在 .trail/ | — |
 | T-03 | REA（Reverse Engineer Anything） | 待查 | 看到別的 app 或網站有喜歡的功能，想知道它怎麼運作時 | 安裝前讀過 setup 會改哪些設定，並確認要分析的軟體條款允許 |
+| T-04 | Playwright CLI（Microsoft） | 待試 | 要在瀏覽器實際跑、截圖或錄測試時 | — |

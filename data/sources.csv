@@ -9,3 +9,4 @@
 "S30","製片手冊收錄的工具評估（Trail-code、Codebase Memory MCP）","production-playbook archive/tools.csv","2026-10-28",""
 "S31","REA: Reverse Engineer Anything（morluto/rea，MIT，2026-04 建立，約 40 萬星）","https://github.com/morluto/rea ；https://rea.tools/","2026-10-30","README 已讀；未安裝"
 "R1","實戰經驗：負責人的工作規則與多個專案的開發紀錄","本手冊作者的工作紀錄","2026-10-30","細節見各條目的「為什麼」"
+"S32","Playwright CLI（microsoft/playwright-cli，Apache-2.0）","https://github.com/microsoft/playwright-cli","2026-10-31",""

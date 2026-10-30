@@ -241,7 +241,8 @@
           "ways": [
             "run 技能",
             "瀏覽器預覽",
-            "evidence-collector 子 agent"
+            "evidence-collector 子 agent",
+            "Playwright CLI"
           ]
         },
         {
