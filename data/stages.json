@@ -115,7 +115,8 @@
           "do": "列出 2–3 個方案和取捨，給出建議和理由",
           "ways": [
             "engineering:architecture、engineering:system-design 技能",
-            "Plan 子 agent"
+            "Plan 子 agent",
+            "Agent Skills（Addy Osmani）的 spec 與 plan 流程"
           ]
         },
         {
@@ -290,7 +291,8 @@
           "do": "重要或有風險的改動請子 agent 或另一個模型審",
           "ways": [
             "reality-checker 子 agent",
-            "security-review 技能"
+            "security-review 技能",
+            "llm-council（多模型意見，需 API）"
           ]
         },
         {
