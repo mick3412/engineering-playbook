@@ -1,6 +1,6 @@
 {
   "name": "engineering-playbook",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A step-by-step handbook for building software with AI agents: brief, understanding the code, design with a three-angle plan review, small verifiable steps, hard constraints, verification with evidence, review, small deliveries and turning mistakes into rules.",
   "author": {
     "name": "Mick Lu"
