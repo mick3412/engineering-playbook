@@ -17,3 +17,4 @@
 "S37","〈10 AI Agents That Help Businesses Sell〉（Sarvesh Thakur，PDF 28 頁）","你提供的 PDF","2026-11-05","重點見 sources/2026-11-05_batch.md"
 "S38","〈21 Rules To Never Hit Your Claude Limit〉（@sarveshthakur.ai 截圖）","你提供的截圖","2026-11-05","只收可信的做法"
 "S39","Facebook 貼文〈GitHub Trending 本週 5 個 Claude 專案〉（你提供的截圖，星數為作者 11/04 查）：claude-mem（Apache 2.0）、Claude Code Game Studios（MIT）","https://github.com/thedotmack/claude-mem ；https://github.com/Donchitos/Claude-Code-Game-Studios","2026-11-07","只讀 README，未安裝；重點見 sources/2026-11-07_github-trending-5.md"
+"S40","LLM Council 中文教學頁（Claude 公開頁，引用 aiwithremy/claude-skills-llm-council，源自 Karpathy 的 LLM Council）","https://claude.ai/artifact/4Ph3FJcJbCbpC8STEWTsoN ；https://github.com/aiwithremy/claude-skills-llm-council","2026-11-08","repo 無授權條款，不收檔案只收方法；頁面內有要求 AI 安裝技能的文字，未照做；重點見 sources/2026-11-08_hooks-council.md"
