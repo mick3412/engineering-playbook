@@ -37,6 +37,13 @@
 |---|---|---|---|---|
 | [llm-council 技能](https://github.com/gcpdev/llm-council-skill)（T-10） | 待試 | 免費 | MIT（寬鬆） | 重要決策想要其他模型的意見時 |
 
+## 協作
+
+| 工具 | 狀態 | 費用 | 授權 | 何時用 |
+|---|---|---|---|---|
+| [claude-mem](https://github.com/thedotmack/claude-mem)（T-12） | 未採用 | 部分付費 | Apache 2.0（寬鬆） | 想讓 agent 跨對話記得過去做過的事時 |
+| [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)（T-13） | 未採用 | 免費 | MIT（寬鬆） | — |
+
 ## 工具
 
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |

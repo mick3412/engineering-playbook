@@ -5,3 +5,4 @@
 - 2026-11-02 收錄 2026-11-02 批次：S33 七個 repo、S34 四個連接器、S35 llm-council、S36 提示詞；新增 1 條、7 個工具
 - 2026-11-02 實測與查證：Agent Skills、Playwright MCP、Expo Skills 已安裝並測試；Firecrawl、Composio、llm-council 查清費用與資料流向後改為待試；Perplexity 維持未採用
 - 2026-11-05 收錄 2026-11-05 批次：S37 10 種 agent 實作、S38 省用量做法；新增 4 條
+- 2026-11-07 收錄 S39 GitHub Trending 五個專案：新增 S0-03 流程量依需求調整；工具 T-12 claude-mem、T-13 Game Studios（未採用）
