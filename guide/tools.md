@@ -24,6 +24,12 @@
 |---|---|---|---|---|
 | [Agent Skills（Addy Osmani）](https://github.com/addyosmani/agent-skills)（T-05） | 已安裝 | 免費 | MIT（寬鬆） | 想要一套 spec、plan、test、review、ship 的工作流程時 |
 
+## 3 拆工
+
+| 工具 | 狀態 | 費用 | 授權 | 何時用 |
+|---|---|---|---|---|
+| [agency-agents（開發挑 3 個）](https://github.com/msitarzewski/agency-agents)（T-15） | 待試 | 免費 | MIT（寬鬆） | 需要交接範本、最小改動的審查、或自動化上線前評估時 |
+
 ## 4 實作
 
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
