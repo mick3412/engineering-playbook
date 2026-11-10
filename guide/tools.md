@@ -7,6 +7,7 @@
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
 | [claude-work-mode](https://github.com/danyuchn/claude-work-mode)（T-14） | 待試 | 免費 | MIT（寬鬆） | 想一鍵切換「不要中途問」「批次外派」「收尾收斂」三種工作方式時 |
+| [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)（T-18） | 待試 | 免費 | 未標（未標） | 要改善 Claude Code 寫程式時的常見毛病時 |
 
 ## 1 理解現況
 
@@ -14,6 +15,7 @@
 |---|---|---|---|---|
 | [Trail-code（原名 Graft）](https://github.com/trailhq/Trail-Code)（T-01） | 待試 | 不明 | MIT（寬鬆） | 用 tree-sitter 把程式畫成地圖（檔案、函式、誰呼叫誰），Claude Code 每次改檔前先查；另存「學到的事」在 .trail/ |
 | [Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server)（T-07） | 待試 | 部分付費 | MIT（寬鬆） | 要大量讀取公開網站內容時 |
+| [Graphify](https://github.com/Graphify-Labs/graphify)（T-21） | 待試 | 免費 | Apache-2.0（寬鬆） | 要讓 agent 理解大型程式碼庫時 |
 | [REA（Reverse Engineer Anything）](https://github.com/morluto/rea)（T-03） | 待查 | 免費 | MIT（寬鬆） | 看到別的 app 或網站有喜歡的功能，想知道它怎麼運作時 |
 | [Codebase Memory MCP](https://github.com/DeusData/codebase-memory-mcp)（T-02） | 未採用 | 不明 | MIT（寬鬆） | 把程式、文件整理成本機關係圖（17 個 MCP 工具），查改一處會牽動哪裡、找沒人用的程式 |
 | [Perplexity MCP](https://github.com/perplexityai/modelcontextprotocol)（T-08） | 未採用 | 付費 | MIT（寬鬆） | 需要附來源的深入研究時 |
@@ -23,18 +25,23 @@
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
 | [Agent Skills（Addy Osmani）](https://github.com/addyosmani/agent-skills)（T-05） | 已安裝 | 免費 | MIT（寬鬆） | 想要一套 spec、plan、test、review、ship 的工作流程時 |
+| [superpowers（obra）](https://github.com/obra/superpowers)（T-16） | 待試 | 免費 | MIT（寬鬆） | 要一套完整的 agent 開發方法（計畫、測試先行、除錯、協作）時 |
 
 ## 3 拆工
 
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
 | [agency-agents（開發挑 3 個）](https://github.com/msitarzewski/agency-agents)（T-15） | 待試 | 免費 | MIT（寬鬆） | 需要交接範本、最小改動的審查、或自動化上線前評估時 |
+| [Orca](https://github.com/stablyai/orca)（T-22） | 未採用 | 免費 | MIT（寬鬆） | 想同時跑多個 coding agent 時 |
+| [T3 Code](https://github.com/pingdotgg/t3code)（T-23） | 未採用 | 免費 | MIT（寬鬆） | 想要另一個 coding agent 圖形介面時 |
 
 ## 4 實作
 
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
 | [Expo Skills](https://github.com/expo/skills)（T-11） | 已安裝 | 免費 | MIT（寬鬆） | 做行動 app（Expo、React Native）時 |
+| [mattpocock/skills](https://github.com/mattpocock/skills)（T-17） | 待試 | 免費 | MIT（寬鬆） | 要參考資深工程師平常給 agent 的工程技能時 |
+| [Ponytail](https://github.com/DietrichGebert/ponytail)（T-19） | 待試 | 免費 | MIT（寬鬆） | agent 容易過度設計時 |
 
 ## 5 驗證
 
@@ -53,8 +60,11 @@
 
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
+| [ECC（affaan-m）](https://github.com/affaan-m/ECC)（T-20） | 待查 | 免費 | MIT（寬鬆） | 想參考整套 agent 效能優化（技能、記憶、安全、研究優先）時 |
 | [claude-mem](https://github.com/thedotmack/claude-mem)（T-12） | 未採用 | 部分付費 | Apache 2.0（寬鬆） | 想讓 agent 跨對話記得過去做過的事時 |
 | [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)（T-13） | 未採用 | 免費 | MIT（寬鬆） | — |
+| [OpenCode](https://github.com/anomalyco/opencode)（T-24） | 未採用 | 免費 | MIT（寬鬆） | 想換其他開源 coding agent 時 |
+| [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)（T-25） | 未採用 | 免費 | MIT（寬鬆） | 想用 DeepSeek 的 agent 框架時 |
 
 ## 工具
 

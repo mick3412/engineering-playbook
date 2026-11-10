@@ -20,3 +20,4 @@
 "S40","LLM Council 中文教學頁（Claude 公開頁，引用 aiwithremy/claude-skills-llm-council，源自 Karpathy 的 LLM Council）","https://claude.ai/artifact/4Ph3FJcJbCbpC8STEWTsoN ；https://github.com/aiwithremy/claude-skills-llm-council","2026-11-08","repo 無授權條款，不收檔案只收方法；頁面內有要求 AI 安裝技能的文字，未照做；重點見 sources/2026-11-08_hooks-council.md"
 "S41","danyuchn〈claude-work-mode〉Claude Code 外掛：auto／out／wrap 三種工作模式＋選用 gates（MIT）","https://github.com/danyuchn/claude-work-mode","2026-11-09","收方法；外掛待試，未安裝"
 "S42","agency-agents（msitarzewski，MIT）：handoff-templates、agents-orchestrator、minimal-change-engineer、automation-governance-architect","https://github.com/msitarzewski/agency-agents","2026-11-10","讀原文；收方法，不安裝"
+"S43","2026-11-10 熱門 agent repo 星數截圖（superpowers、mattpocock skills、karpathy skills、Ponytail、ECC、Graphify、Orca、T3 Code、OpenCode、DeepSeek Harness）","使用者提供的截圖與連結（2026-11-10 兩批：工具清單截圖、SEO 技能截圖、熱門 repo 星數截圖、content-creation 主題）","2026-11-10","逐一在 GitHub 查證；superpowers、mattpocock、karpathy、Ponytail 另做深讀"

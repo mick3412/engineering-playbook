@@ -36,3 +36,9 @@
 | T-10 | llm-council 技能 | 待試 | 重要決策想要其他模型的意見時 | 重要決策想要第二意見時 |
 | T-14 | claude-work-mode | 待試 | 想一鍵切換「不要中途問」「批次外派」「收尾收斂」三種工作方式時 | 有長時間自主工作的專案時 |
 | T-15 | agency-agents（開發挑 3 個） | 待試 | 需要交接範本、最小改動的審查、或自動化上線前評估時 | — |
+| T-16 | superpowers（obra） | 待試 | 要一套完整的 agent 開發方法（計畫、測試先行、除錯、協作）時 | — |
+| T-17 | mattpocock/skills | 待試 | 要參考資深工程師平常給 agent 的工程技能時 | — |
+| T-18 | andrej-karpathy-skills | 待試 | 要改善 Claude Code 寫程式時的常見毛病時 | — |
+| T-19 | Ponytail | 待試 | agent 容易過度設計時 | — |
+| T-20 | ECC（affaan-m） | 待查 | 想參考整套 agent 效能優化（技能、記憶、安全、研究優先）時 | — |
+| T-21 | Graphify | 待試 | 要讓 agent 理解大型程式碼庫時 | 接手大型程式碼庫時 |
