@@ -14,9 +14,9 @@
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
 | [Trail-code（原名 Graft）](https://github.com/trailhq/Trail-Code)（T-01） | 待試 | 不明 | MIT（寬鬆） | 用 tree-sitter 把程式畫成地圖（檔案、函式、誰呼叫誰），Claude Code 每次改檔前先查；另存「學到的事」在 .trail/ |
+| [REA（Reverse Engineer Anything）](https://github.com/morluto/rea)（T-03） | 待試 | 免費 | MIT（寬鬆） | 看到別的 app 或網站有喜歡的功能，想知道它怎麼運作時 |
 | [Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server)（T-07） | 待試 | 部分付費 | MIT（寬鬆） | 要大量讀取公開網站內容時 |
 | [Graphify](https://github.com/Graphify-Labs/graphify)（T-21） | 待試 | 免費 | Apache-2.0（寬鬆） | 要讓 agent 理解大型程式碼庫時 |
-| [REA（Reverse Engineer Anything）](https://github.com/morluto/rea)（T-03） | 待查 | 免費 | MIT（寬鬆） | 看到別的 app 或網站有喜歡的功能，想知道它怎麼運作時 |
 | [Codebase Memory MCP](https://github.com/DeusData/codebase-memory-mcp)（T-02） | 未採用 | 不明 | MIT（寬鬆） | 把程式、文件整理成本機關係圖（17 個 MCP 工具），查改一處會牽動哪裡、找沒人用的程式 |
 | [Perplexity MCP](https://github.com/perplexityai/modelcontextprotocol)（T-08） | 未採用 | 付費 | MIT（寬鬆） | 需要附來源的深入研究時 |
 
@@ -60,9 +60,9 @@
 
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
-| [ECC（affaan-m）](https://github.com/affaan-m/ECC)（T-20） | 待查 | 免費 | MIT（寬鬆） | 想參考整套 agent 效能優化（技能、記憶、安全、研究優先）時 |
 | [claude-mem](https://github.com/thedotmack/claude-mem)（T-12） | 未採用 | 部分付費 | Apache 2.0（寬鬆） | 想讓 agent 跨對話記得過去做過的事時 |
 | [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)（T-13） | 未採用 | 免費 | MIT（寬鬆） | — |
+| [ECC（affaan-m）](https://github.com/affaan-m/ECC)（T-20） | 未採用 | 部分付費 | MIT（寬鬆） | 想參考整套 agent 效能優化（技能、記憶、安全、研究優先）時 |
 | [OpenCode](https://github.com/anomalyco/opencode)（T-24） | 未採用 | 免費 | MIT（寬鬆） | 想換其他開源 coding agent 時 |
 | [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)（T-25） | 未採用 | 免費 | MIT（寬鬆） | 想用 DeepSeek 的 agent 框架時 |
 
