@@ -1,0 +1,25 @@
+{
+ "start_type": "修 bug",
+ "save_need": "修一個登入的 bug",
+ "brief_stage": "1",
+ "cases": [
+  {
+   "need": "修一個登入的 bug",
+   "must": [
+    "S1-03"
+   ]
+  },
+  {
+   "need": "加一個新功能",
+   "must": [
+    "S4-09"
+   ]
+  },
+  {
+   "need": "做一個 Claude 技能",
+   "must": [
+    "S2-03"
+   ]
+  }
+ ]
+}
