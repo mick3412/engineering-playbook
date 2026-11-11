@@ -1,2 +1,3 @@
 "日期","作品","產品","類型","條目id","結果","備註"
 "2026-11-12","桌上試驗","bench","","S6-02","有效","寫了一個 PreToolUse hook 樣本：遇到 npm run migrate 以結束碼 2 擋下，stderr 寫明原因和兩個替代做法；npm test 正常放行。格式可直接沿用；agent 收到理由後會不會改走替代做法，要在真實工作時觀察"
+"2026-11-12","桌上試驗","bench","","T-27","有效","負責人允許後實跑：npx skills find 幾秒內列出技能、安裝次數和連結，搜 pdf 第一筆就是官方 anthropics/skills@pdf（22.7 萬次安裝）；同一需求用 gh 搜 GitHub 只找到一個 0 星的 repo。缺點：不顯示授權和星數，還混進無關結果（搜 pdf form 出現 bitwarden）；裝之前仍要讀 SKILL.md"
