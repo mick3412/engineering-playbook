@@ -60,11 +60,15 @@
 
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
+| [claude-hud](https://github.com/jarrodwatts/claude-hud)（T-26） | 待試 | 免費 | MIT（寬鬆） | 長時間工作想隨時看 context 用量、進行中的工具與子代理時 |
+| [find-skills（vercel-labs/skills）](https://github.com/vercel-labs/skills)（T-27） | 待試 | 免費 | MIT（寬鬆） | 想找現成技能時 |
 | [claude-mem](https://github.com/thedotmack/claude-mem)（T-12） | 未採用 | 部分付費 | Apache 2.0（寬鬆） | 想讓 agent 跨對話記得過去做過的事時 |
 | [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)（T-13） | 未採用 | 免費 | MIT（寬鬆） | — |
 | [ECC（affaan-m）](https://github.com/affaan-m/ECC)（T-20） | 未採用 | 部分付費 | MIT（寬鬆） | 想參考整套 agent 效能優化（技能、記憶、安全、研究優先）時 |
 | [OpenCode](https://github.com/anomalyco/opencode)（T-24） | 未採用 | 免費 | MIT（寬鬆） | 想換其他開源 coding agent 時 |
 | [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)（T-25） | 未採用 | 免費 | MIT（寬鬆） | 想用 DeepSeek 的 agent 框架時 |
+| [gstack（garrytan）](https://github.com/garrytan/gstack)（T-28） | 未採用 | 免費 | MIT（寬鬆） | 想參考一整套開發流程（追問需求、定架構、審查、上線）時 |
+| [caveman](https://github.com/JuliusBrussee/caveman)（T-29） | 未採用 | 免費 | Apache-2.0（寬鬆） | 想省 token 時 |
 
 ## 工具
 
