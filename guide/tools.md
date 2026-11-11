@@ -63,6 +63,7 @@
 | [claude-hud](https://github.com/jarrodwatts/claude-hud)（T-26） | 待試 | 免費 | MIT（寬鬆） | 長時間工作想隨時看 context 用量、進行中的工具與子代理時 |
 | [find-skills（vercel-labs/skills）](https://github.com/vercel-labs/skills)（T-27） | 待試 | 免費 | MIT（寬鬆） | 想找現成技能時 |
 | [task-observer（rebelytics）](https://github.com/rebelytics/one-skill-to-rule-them-all)（T-30） | 待試 | 免費 | CC-BY-4.0（寬鬆） | 想讓技能和手冊從實際修正中持續改進時 |
+| [context-mode](https://github.com/mksglu/context-mode)（T-32） | 待查 | 免費 | 未標（未標） | 長任務中工具輸出塞爆 context 時 |
 | [claude-mem](https://github.com/thedotmack/claude-mem)（T-12） | 未採用 | 部分付費 | Apache 2.0（寬鬆） | 想讓 agent 跨對話記得過去做過的事時 |
 | [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)（T-13） | 未採用 | 免費 | MIT（寬鬆） | — |
 | [ECC（affaan-m）](https://github.com/affaan-m/ECC)（T-20） | 未採用 | 部分付費 | MIT（寬鬆） | 想參考整套 agent 效能優化（技能、記憶、安全、研究優先）時 |
@@ -71,6 +72,7 @@
 | [gstack（garrytan）](https://github.com/garrytan/gstack)（T-28） | 未採用 | 免費 | MIT（寬鬆） | 想參考一整套開發流程（追問需求、定架構、審查、上線）時 |
 | [caveman](https://github.com/JuliusBrussee/caveman)（T-29） | 未採用 | 免費 | Apache-2.0（寬鬆） | 想省 token 時 |
 | [claude-mem（thedotmack）](https://github.com/thedotmack/claude-mem)（T-31） | 未採用 | 免費 | Apache-2.0（寬鬆） | 想要跨對話記憶時 |
+| [Camofox Browser](https://github.com/jo-inc/camofox-browser)（T-33） | 避開 | 免費 | MIT（寬鬆） | 想讓 agent 自動瀏覽網站時 |
 
 ## 工具
 
