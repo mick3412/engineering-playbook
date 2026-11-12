@@ -147,6 +147,22 @@ class PlaybookTest(unittest.TestCase):
                 self.assertEqual((REPO / "data" / "shared.json").read_bytes(), o.read_bytes(), f"copy data/shared.json to {o.parent.parent.name}")
         self.assertIn("風格=新粗獷", self.pb("facets", "--suggest", "新粗獷風的活動"))
 
+    def test_blueprint_has_every_section_and_stage(self):
+        out = self.pb("blueprint", "寫一個每天抓資料的排程腳本")
+        for n in range(1, 10):
+            self.assertIn(f"## {n}. ", out)
+        import json as _json
+        st = _json.loads((self.home / "data" / "stages.json").read_text(encoding="utf-8"))["stages"]
+        for s in st:
+            self.assertIn(f"- **{s['id']} {s['name']}**", out)
+        self.assertIn("  - 步驟：", out)
+        self.assertIn("  - 過關：", out)
+        self.assertIn("驗收方式", self.pb("spec", "--from", "寫一個每天抓資料的排程腳本"))
+        self.assertIn("1.3 重現問題", out)
+        self.pb("blueprint", "寫一個每天抓資料的排程腳本", "--save")
+        saved = list((self.project / ".strategy" / "計畫").glob("*.md"))
+        self.assertEqual(len(saved), 1)
+
     def test_rules_file_leaves_items_out(self):
         c = self._golden()["cases"][0]
         rules = self.tmp / "rules.txt"
