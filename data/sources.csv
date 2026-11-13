@@ -26,3 +26,5 @@
 "S46","IG Reel〈5 個 Claude Skills〉（your.engineer.ben：Stop Slop、Claude-Mem、UI/UX Pro Max、Task Observer、Find Skills）","https://www.instagram.com/reel/Dfg9v40j_p7/","2026-11-11","Task Observer 待試；Claude-Mem 不收（與內建記憶重複，預設送匿名統計）"
 "S47","Notion〈Github 10 大 AI 專案〉（chiara）","https://app.notion.com/p/Github-10-AI-3d8b7e19746a8066bb3ac54a45105c32","2026-11-11","交易類（AutoHedge、Vibe Trading、Fincept）與 Agentic Inbox 不收"
 "S48","逐字稿工具組（影片手冊 R-12）：本機聽寫 Umless（去贅詞、依 App 調語氣、個人詞庫）、Handy、OpenWhispr","https://github.com/jatinbishla/Umless ；影片手冊 R-12","2026-11-12","逐字稿工具組在影片手冊 R-12（T-98–T-110）"
+"S49","mattpocock/skills（MIT，約 32 萬星）：grill-me、grill-with-docs 轉呼叫的 grilling（決策樹分輪追問）與 domain-modeling（術語表與 ADR）","https://github.com/mattpocock/skills","2026-11-13","skills.sh 安裝排行截圖（負責人提供，2026-11-13）；安裝數以 npx skills find 查證；技能本身只是轉呼叫，收做法不裝技能"
+"S50","vercel-labs/agent-browser（Apache-2.0，約 5 萬星）：給 agent 用的瀏覽器 CLI，snapshot 以 @e1 這類參照操作元素","https://github.com/vercel-labs/agent-browser","2026-11-13","skills.sh 安裝排行截圖（負責人提供，2026-11-13）；安裝數以 npx skills find 查證"

@@ -48,6 +48,7 @@
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
 | [Playwright MCP（Microsoft）](https://github.com/microsoft/playwright-mcp)（T-06） | 已安裝 | 免費 | Apache-2.0（寬鬆） | 要讓 agent 實際操作瀏覽器測網站時 |
+| [agent-browser（Vercel Labs）](https://github.com/vercel-labs/agent-browser)（T-34） | 待試 | 免費 | Apache-2.0（寬鬆） | 要讓 agent 實際開頁面、填表單、截圖來驗證時；和已安裝的 Playwright MCP（T-06）比，看哪個步驟少、結果穩 |
 | [Playwright CLI（Microsoft）](https://github.com/microsoft/playwright-cli)（T-04） | 未採用 | 免費 | Apache-2.0（寬鬆） | 要在瀏覽器實際跑、截圖或錄測試時。Python 版 Playwright 已能完成同樣的流程測試（網站手冊 T-07） |
 
 ## 6 審查
