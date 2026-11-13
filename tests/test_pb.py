@@ -163,6 +163,14 @@ class PlaybookTest(unittest.TestCase):
         saved = list((self.project / ".strategy" / "計畫").glob("*.md"))
         self.assertEqual(len(saved), 1)
 
+    def test_engineering_questions_follow_their_own_tree(self):
+        out = self.pb("blueprint", "寫一個每天抓資料的排程腳本")
+        self.assertIn("❓ Q1｜完成的定義", out)
+        self.assertIn("下一輪（等上面的答案）：範圍外", out)
+        out2 = self.pb("blueprint", "寫一個每天抓資料的排程腳本，完成＝每天 8 點跑完並寄出報表，先不做網頁介面")
+        self.assertIn("｜風險等級", out2)
+        self.assertIn("寄信或發訊息", out2)
+
     def test_rules_file_leaves_items_out(self):
         c = self._golden()["cases"][0]
         rules = self.tmp / "rules.txt"
