@@ -28,3 +28,4 @@
 "S48","逐字稿工具組（影片手冊 R-12）：本機聽寫 Umless（去贅詞、依 App 調語氣、個人詞庫）、Handy、OpenWhispr","https://github.com/jatinbishla/Umless ；影片手冊 R-12","2026-11-12","逐字稿工具組在影片手冊 R-12（T-98–T-110）"
 "S49","mattpocock/skills（MIT，約 32 萬星）：grill-me、grill-with-docs 轉呼叫的 grilling（決策樹分輪追問）與 domain-modeling（術語表與 ADR）","https://github.com/mattpocock/skills","2026-11-13","skills.sh 安裝排行截圖（負責人提供，2026-11-13）；安裝數以 npx skills find 查證；技能本身只是轉呼叫，收做法不裝技能"
 "S50","vercel-labs/agent-browser（Apache-2.0，約 5 萬星）：給 agent 用的瀏覽器 CLI，snapshot 以 @e1 這類參照操作元素","https://github.com/vercel-labs/agent-browser","2026-11-13","skills.sh 安裝排行截圖（負責人提供，2026-11-13）；安裝數以 npx skills find 查證"
+"S51","ShortGenius 部落格（繁中）2026 年文章","https://shortgenius.com/tw/blog","2026-11-13","ShortGenius 部落格 2026 年 253 篇（廠商 SEO 文，數字多為轉引；只收可照做的做法與有出處的規格）；整理見 production-playbook/bench/runs/intake/shortgenius/knowhow.md"
