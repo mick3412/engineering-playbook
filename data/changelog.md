@@ -38,3 +38,4 @@
 - 2026-11-14 收錄 S51 ShortGenius 2026 年文章：新增 S2-07 先自動化可逆的決定、偵測只建地圖
 - 2026-11-14 引擎：新增 storyboard、qa 指令（只在有 data/storyboards.json、bin/video_qa.py 的手冊生效）；blueprint 會列分鏡模板；validate 檢查分鏡智庫
 - 2026-11-14 引擎：run-log 可記分鏡模板與系列格式代號（SB-、SF-）
+- 2026-11-14 引擎：pb.py qa 可收多張輪播頁圖片、新增 feed 安全區
