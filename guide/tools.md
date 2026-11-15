@@ -57,6 +57,12 @@
 |---|---|---|---|---|
 | [llm-council 技能](https://github.com/gcpdev/llm-council-skill)（T-10） | 待試 | 免費 | MIT（寬鬆） | 重要決策想要其他模型的意見時。很耗 token，用前先問負責人 |
 
+## 8 回顧與收錄
+
+| 工具 | 狀態 | 費用 | 授權 | 何時用 |
+|---|---|---|---|---|
+| [AI Engineering from Scratch（課程與教學技能）](https://github.com/rohitg00/ai-engineering-from-scratch)（T-35） | 待試 | 免費 | MIT（寬鬆） | 想弄懂 agent loop、MCP、技能、驗證關卡這類機制怎麼運作，或要找一份現成的檢查清單（每課 outputs/ 有技能檔）時 |
+
 ## 協作
 
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
