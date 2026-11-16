@@ -56,6 +56,7 @@
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
 | [llm-council 技能](https://github.com/gcpdev/llm-council-skill)（T-10） | 待試 | 免費 | MIT（寬鬆） | 重要決策想要其他模型的意見時。很耗 token，用前先問負責人 |
+| [security-audit（Cloudflare）](https://github.com/cloudflare/security-audit-skill)（T-36） | 待試 | 免費 | MIT（寬鬆） | 上線前或大改後，要對整個 repo 做一次有紀錄、可重跑的資安稽核時 |
 
 ## 8 回顧與收錄
 

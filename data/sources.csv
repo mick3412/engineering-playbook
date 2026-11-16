@@ -30,3 +30,4 @@
 "S50","vercel-labs/agent-browser（Apache-2.0，約 5 萬星）：給 agent 用的瀏覽器 CLI，snapshot 以 @e1 這類參照操作元素","https://github.com/vercel-labs/agent-browser","2026-11-13","skills.sh 安裝排行截圖（負責人提供，2026-11-13）；安裝數以 npx skills find 查證"
 "S51","ShortGenius 部落格（繁中）2026 年文章","https://shortgenius.com/tw/blog","2026-11-13","ShortGenius 部落格 2026 年 253 篇（廠商 SEO 文，數字多為轉引；只收可照做的做法與有出處的規格）；整理見 production-playbook/bench/runs/intake/shortgenius/knowhow.md"
 "S52","rohitg00/ai-engineering-from-scratch（20 階段 542 課，MIT）","https://github.com/rohitg00/ai-engineering-from-scratch","2026-11-15","commit 9a6608f。只收 Agent 工程：14 階段 33、36、38、39、40、46、50 課，15 階段 13、15、16 課，13 階段 15、24、26 課（讀完內文與 outputs 成品）；數學、模型內部、基礎設施、逆向工程不收。有官方繁中翻譯 i18n/zh-TW"
+"S53","skillleaderboard.com 2026 年 10 月 GitHub 新增收藏前 10 名（截圖）","https://skillleaderboard.com","2026-11-16","10 個中 8 個手冊已有；新收 cloudflare/security-audit-skill（工程 T-36）與 wheresryan22/anatomy（影片、網站）。星數為頁面紀錄"
