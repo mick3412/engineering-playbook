@@ -46,3 +46,4 @@
 - 2026-11-16 收錄技能排行截圖（S53）：新增 T-36 Cloudflare security-audit（待試）；S6-04 補「每個發現交給新代理嘗試推翻」；T-17 註記官方外掛與新技能
 - 2026-11-16 引擎：storyboard --emit 出卡片草稿、card-check 驗證版型卡（影片手冊用）
 - 2026-11-17 pb.py 同步：card-check 檢查分鏡卡片的動態設定（motion 預設與數值範圍）
+- 2026-11-17 pb.py 同步：review-pack（影片送審的 agent 兩輪審查包）
