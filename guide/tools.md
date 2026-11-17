@@ -42,6 +42,8 @@
 |---|---|---|---|---|
 | [Expo Skills](https://github.com/expo/skills)（T-11） | 已安裝 | 免費 | MIT（寬鬆） | 做行動 app（Expo、React Native）時 |
 | [Scrapling](https://github.com/D4Vinci/Scrapling)（T-37） | 待試 | 免費 | BSD-3-Clause（寬鬆） | 要抓的網頁會擋爬蟲（Cloudflare 等），或網頁常改版、選擇器一直壞掉時。先看對方的使用條款與 robots.txt；有官方 API 就用 API；Meta、IG 等平台不用 |
+| [Context7（Upstash）](https://context7.com)（T-41） | 待試 | 部分付費 | MIT（MCP 伺服器）（寬鬆） | 用到更新很快的套件（Next.js、Tailwind 等），怕 agent 寫出舊版 API 時 |
+| [n8n（自架）](https://n8n.io)（T-42） | 待試 | 部分付費 | Sustainable Use License（自架免費，公司內部與商業營運可用；轉賣 n8n 本身或當代管服務受限）（特殊） | 要把跨服務的固定流程自動化（表單 → CRM → 追蹤信、排程報表）又不想按次付費時 |
 | [mattpocock/skills](https://github.com/mattpocock/skills)（T-17） | 未採用 | 免費 | MIT（寬鬆） | 要參考資深工程師平常給 agent 的工程技能時。精華已拆成手冊條目（S1-03、S1-04、S2-05、S4-08、S4-09、S5-05、S6-03、S8-02 等）；整包安裝會和手冊重複 |
 | [Ponytail](https://github.com/DietrichGebert/ponytail)（T-19） | 未採用 | 免費 | MIT（寬鬆） | agent 容易過度設計時。精華已拆成手冊條目（S1-03、S1-04、S2-05、S4-08、S4-09、S5-05、S6-03、S8-02 等）；整包安裝會和手冊重複 |
 
@@ -59,12 +61,20 @@
 |---|---|---|---|---|
 | [llm-council 技能](https://github.com/gcpdev/llm-council-skill)（T-10） | 待試 | 免費 | MIT（寬鬆） | 重要決策想要其他模型的意見時。很耗 token，用前先問負責人 |
 | [security-audit（Cloudflare）](https://github.com/cloudflare/security-audit-skill)（T-36） | 待試 | 免費 | MIT（寬鬆） | 上線前或大改後，要對整個 repo 做一次有紀錄、可重跑的資安稽核時 |
+| [Codex CLI（OpenAI）](https://developers.openai.com/codex)（T-40） | 待試 | 部分付費 | Apache-2.0（寬鬆） | 要一個不同模型的第二意見審查程式時。免費替代：開一個沒看過對話的子代理審（/code-review） |
+
+## 7 交付
+
+| 工具 | 狀態 | 費用 | 授權 | 何時用 |
+|---|---|---|---|---|
+| [GitHub CLI（gh）](https://cli.github.com)（T-39） | 已安裝 | 免費 | MIT（寬鬆） | 在終端機開 PR、看 CI、發 release、管 issue 時 |
 
 ## 8 回顧與收錄
 
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
 | [AI Engineering from Scratch（課程與教學技能）](https://github.com/rohitg00/ai-engineering-from-scratch)（T-35） | 待試 | 免費 | MIT（寬鬆） | 想弄懂 agent loop、MCP、技能、驗證關卡這類機制怎麼運作，或要找一份現成的檢查清單（每課 outputs/ 有技能檔）時 |
+| [Ollama](https://ollama.com)（T-43） | 待試 | 免費 | MIT（寬鬆） | 大量簡單工作（分類、摘要、改格式）想在本機跑、不花 API 費用時 |
 
 ## 協作
 
