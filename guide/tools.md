@@ -14,6 +14,7 @@
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
 | [Graphify](https://github.com/Graphify-Labs/graphify)（T-21） | 待試 | 免費 | Apache-2.0（寬鬆） | 要讓 agent 理解大型程式碼庫時 |
+| [book-to-skill（virgiliojr94）](https://github.com/virgiliojr94/book-to-skill)（T-38） | 待試 | 免費 | MIT（寬鬆） | 有一本領域書（技術書、方法論）想讓 agent 工作時照著查、照著做時。只用自己合法持有的書，產出的技能不公開散布 |
 | [Trail-code（原名 Graft）](https://github.com/trailhq/Trail-Code)（T-01） | 未採用 | 不明 | MIT（寬鬆） | 用 tree-sitter 把程式畫成地圖（檔案、函式、誰呼叫誰），Claude Code 每次改檔前先查；另存「學到的事」在 .trail/。會加 hooks、讀過去對話、預設開遙測；為測試改 agent 環境不划算 |
 | [Codebase Memory MCP](https://github.com/DeusData/codebase-memory-mcp)（T-02） | 未採用 | 不明 | MIT（寬鬆） | 把程式、文件整理成本機關係圖（17 個 MCP 工具），查改一處會牽動哪裡、找沒人用的程式 |
 | [REA（Reverse Engineer Anything）](https://github.com/morluto/rea)（T-03） | 未採用 | 免費 | MIT（寬鬆） | 看到別的 app 或網站有喜歡的功能，想知道它怎麼運作時。用途是逆向分析，不是我們的工作 |
@@ -40,6 +41,7 @@
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
 | [Expo Skills](https://github.com/expo/skills)（T-11） | 已安裝 | 免費 | MIT（寬鬆） | 做行動 app（Expo、React Native）時 |
+| [Scrapling](https://github.com/D4Vinci/Scrapling)（T-37） | 待試 | 免費 | BSD-3-Clause（寬鬆） | 要抓的網頁會擋爬蟲（Cloudflare 等），或網頁常改版、選擇器一直壞掉時。先看對方的使用條款與 robots.txt；有官方 API 就用 API；Meta、IG 等平台不用 |
 | [mattpocock/skills](https://github.com/mattpocock/skills)（T-17） | 未採用 | 免費 | MIT（寬鬆） | 要參考資深工程師平常給 agent 的工程技能時。精華已拆成手冊條目（S1-03、S1-04、S2-05、S4-08、S4-09、S5-05、S6-03、S8-02 等）；整包安裝會和手冊重複 |
 | [Ponytail](https://github.com/DietrichGebert/ponytail)（T-19） | 未採用 | 免費 | MIT（寬鬆） | agent 容易過度設計時。精華已拆成手冊條目（S1-03、S1-04、S2-05、S4-08、S4-09、S5-05、S6-03、S8-02 等）；整包安裝會和手冊重複 |
 
