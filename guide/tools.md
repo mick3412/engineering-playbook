@@ -13,6 +13,7 @@
 
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
+| [Floorplan（haydenschmitty）](https://github.com/haydenschmitty/floorplan)（T-44） | 已整合 | 免費 | MIT（寬鬆） | 接手或重看一個專案、要讓非工程背景的人看懂系統有哪些部分、資料怎麼流時（1.2 功能地圖）。小專案（<5 個程式檔）不必用 |
 | [Graphify](https://github.com/Graphify-Labs/graphify)（T-21） | 待試 | 免費 | Apache-2.0（寬鬆） | 要讓 agent 理解大型程式碼庫時 |
 | [book-to-skill（virgiliojr94）](https://github.com/virgiliojr94/book-to-skill)（T-38） | 待試 | 免費 | MIT（寬鬆） | 有一本領域書（技術書、方法論）想讓 agent 工作時照著查、照著做時。只用自己合法持有的書，產出的技能不公開散布 |
 | [Trail-code（原名 Graft）](https://github.com/trailhq/Trail-Code)（T-01） | 未採用 | 不明 | MIT（寬鬆） | 用 tree-sitter 把程式畫成地圖（檔案、函式、誰呼叫誰），Claude Code 每次改檔前先查；另存「學到的事」在 .trail/。會加 hooks、讀過去對話、預設開遙測；為測試改 agent 環境不划算 |
