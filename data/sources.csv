@@ -34,3 +34,5 @@
 "S54","Claude 技能前 10 名清單（截圖：unslop、UI/UX Pro Max、Diagram Design、Humanizer、Last 30 Days、Scrapling、book-to-skill、Ponytail、Caveman、Superpowers）","（截圖，無網址）","2026-11-17","10 個中 8 個各手冊已有；新收 Scrapling（T-37）、book-to-skill（T-38）"
 "S55","AIAgently 輪播：5 個部門各 10 個外掛（Build、Design、Grow、Make、Run，截圖 5 張）","https://aiagently.io","2026-11-17","50 個中手冊已有 23 個；本書新收 GitHub CLI、Codex、Context7、n8n、Ollama。2026-11-17 查價並實測 Context7（不用金鑰可查）"
 "S56","IG 輪播：本週 GitHub 最紅五個新 skill（raraco.lab）","（截圖，無網址）","2026-11-18","本書收 Floorplan（2026-11-18 實測）；Unslop 已在網站手冊"
+"S57","Anthropic〈How the Claude Code team does code review〉＋張維峰 FB 解說片","https://claude.dev/blog/solving-code-review-at-anthropic/ ；https://www.facebook.com/share/v/1FUjuPRFtF/","2026-11-24","原文 2026-10-15。片中「每天 3 萬個 PR」原文是整個 monorepo 的 changes；「兩個 AI 互審 50 多輪」原文是 agent 作者與 agent 審查員循環到作者喊停。筆記 playbook-bench/production/refs/batch1124/notes.md"
+"S58","產品經理的背後靈 IG 片（unslop-ui 驗收三件事）＋本機實測","https://www.instagram.com/reel/DgBk4Upp6Hb/ ；playbook-bench/production/refs/batch1124/notes.md","2026-11-24","驗收第三點「乾淨頁面再跑、結論要是不用改」；實測 linkedin-agent-skill detect.py 乾淨稿 69.8 REVIEW、SkillSpector 誤報"
