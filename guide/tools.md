@@ -6,6 +6,7 @@
 
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
+| [Claude Code Setup（官方 claude-code-setup）](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-code-setup)（T-46） | 待試 | 免費 | Apache-2.0（寬鬆） | 新專案剛開始用 Claude Code、或想檢查現有專案還缺哪些自動化時 |
 | [claude-work-mode](https://github.com/danyuchn/claude-work-mode)（T-14） | 未採用 | 免費 | MIT（寬鬆） | 想一鍵切換「不要中途問」「批次外派」「收尾收斂」三種工作方式時。精華已拆成手冊條目（S1-03、S1-04、S2-05、S4-08、S4-09、S5-05、S6-03、S8-02 等）；整包安裝會和手冊重複 |
 | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)（T-18） | 未採用 | 免費 | 未標（未標） | 要改善 Claude Code 寫程式時的常見毛病時。精華已拆成手冊條目（S1-03、S1-04、S2-05、S4-08、S4-09、S5-05、S6-03、S8-02 等）；整包安裝會和手冊重複 |
 
@@ -63,6 +64,7 @@
 | [llm-council 技能](https://github.com/gcpdev/llm-council-skill)（T-10） | 待試 | 免費 | MIT（寬鬆） | 重要決策想要其他模型的意見時。很耗 token，用前先問負責人 |
 | [security-audit（Cloudflare）](https://github.com/cloudflare/security-audit-skill)（T-36） | 待試 | 免費 | MIT（寬鬆） | 上線前或大改後，要對整個 repo 做一次有紀錄、可重跑的資安稽核時 |
 | [Codex CLI（OpenAI）](https://developers.openai.com/codex)（T-40） | 待試 | 部分付費 | Apache-2.0（寬鬆） | 要一個不同模型的第二意見審查程式時。免費替代：開一個沒看過對話的子代理審（/code-review） |
+| [Elephant-Goldfish Model（EGM）](https://github.com/google/elephant-goldfish-model)（T-45） | 待試 | 免費 | Apache-2.0（寬鬆） | 計畫、設計文件或規格要交給別的 session、子代理或人接手之前；或要審設計文件、README 時 |
 
 ## 7 交付
 
@@ -93,6 +95,7 @@
 | [gstack（garrytan）](https://github.com/garrytan/gstack)（T-28） | 未採用 | 免費 | MIT（寬鬆） | 想參考一整套開發流程（追問需求、定架構、審查、上線）時 |
 | [caveman](https://github.com/JuliusBrussee/caveman)（T-29） | 未採用 | 免費 | Apache-2.0（寬鬆） | 想省 token 時 |
 | [claude-mem（thedotmack）](https://github.com/thedotmack/claude-mem)（T-31） | 未採用 | 免費 | Apache-2.0（寬鬆） | 想要跨對話記憶時 |
+| [FreeLLMAPI（tashfeenahmed）](https://github.com/tashfeenahmed/freellmapi)（T-47） | 未採用 | 免費 | MIT（寬鬆） | — |
 | [Camofox Browser](https://github.com/jo-inc/camofox-browser)（T-33） | 避開 | 免費 | MIT（寬鬆） | 想讓 agent 自動瀏覽網站時 |
 
 ## 工具

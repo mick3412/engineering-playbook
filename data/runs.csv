@@ -2,3 +2,4 @@
 "2026-11-12","桌上試驗","bench","","S6-02","有效","寫了一個 PreToolUse hook 樣本：遇到 npm run migrate 以結束碼 2 擋下，stderr 寫明原因和兩個替代做法；npm test 正常放行。格式可直接沿用；agent 收到理由後會不會改走替代做法，要在真實工作時觀察"
 "2026-11-12","桌上試驗","bench","","T-27","有效","負責人允許後實跑：npx skills find 幾秒內列出技能、安裝次數和連結，搜 pdf 第一筆就是官方 anthropics/skills@pdf（22.7 萬次安裝）；同一需求用 gh 搜 GitHub 只找到一個 0 星的 repo。缺點：不顯示授權和星數，還混進無關結果（搜 pdf form 出現 bitwarden）；裝之前仍要讀 SKILL.md"
 "2026-11-18","桌上試驗","bench","","T-44","有效","2026-11-18 對 4 檔 Worker 專案複本：scan 0.1 秒、手寫架構描述後 build 出單檔互動地圖，白話總覽、外部服務、流程導覽都正確，頁面無錯誤。會在目標專案建 floorplan/ 資料夾"
+"2026-11-25","桌上試驗","bench","","T-45","有效","用 implementation_readiness 角色（63 行）開 Sonnet 新子代理審一份影片修正計畫：10 項（1 Blocker、7 Major、2 Nit），自評約 7 項確定。抓到的是交接缺口（卡片欄位與數值、工作目錄、抽格指令、新審查員提示、SendMessage 對象）；同一個有上下文的 agent 執行時不卡，交給新 session 時才是問題"
